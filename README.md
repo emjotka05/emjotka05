@@ -27,10 +27,10 @@
 ![Arduino](https://img.shields.io/badge/arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
 
 
----
-### 📊 GitHub Stats
-![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=emjotka05&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emjotka05K&layout=compact&theme=radical)
+
+### 👁️ Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=emjotka05&color=blue&style=for-the-badge&label=VIEWS)
+
 
 ---
 ### 📫 Connect with me
