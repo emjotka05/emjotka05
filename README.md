@@ -5,6 +5,7 @@
 
 ### 💻 Tech Interests
 - 🌐 Web Development (Frontend & Backend)
+- Machine Learning and Python 
 
 ### 🏃 Personal Interests
 - 🤸 **Calisthenics** and Weightlifting
