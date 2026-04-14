@@ -1,15 +1,15 @@
-# Hi there! I'm Max 👋
 
-### 🎓 Education
-- 🏫 Student of **Computer Science** at **Silesian University of Technology**.
+
+### Education
+- Student of **Computer Science** at **Silesian University of Technology**.
 
 ### 💻 Tech Interests
-- 🌐 Web Development (Frontend & Backend)
+- Frontend & Backend
 - Machine Learning and Python 
 
-### 🏃 Personal Interests
-- 🤸 **Calisthenics** and Weightlifting
-- 🏀 General Sports & Active Lifestyle
+### Personal Interests
+- **Calisthenics** and Weightlifting
+- General Sports & Active Lifestyle
 
 ---
 ### 🛠 Languages & Tools
