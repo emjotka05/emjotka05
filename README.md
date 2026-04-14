@@ -3,7 +3,7 @@
 ### Education
 - Student of **Computer Science** at **Silesian University of Technology**.
 
-### 💻 Tech Interests
+### Tech Interests
 - Frontend & Backend
 - Machine Learning and Python 
 
@@ -12,7 +12,7 @@
 - General Sports & Active Lifestyle
 
 ---
-### 🛠 Languages & Tools
+### Languages & Tools
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -29,12 +29,12 @@
 
 
 
-### 👁️ Profile Views
+### Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=emjotka05&color=blue&style=for-the-badge&label=VIEWS)
 
 
 ---
-### 📫 Connect with me
+### Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maksymilian-kluska-135650245/?isSelfProfile=true)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emjotka05@gmail.com)
